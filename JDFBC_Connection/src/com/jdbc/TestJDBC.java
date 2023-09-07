@@ -9,9 +9,9 @@ import java.sql.Statement;
 public class TestJDBC {
 
 	public static void main(String[] args) throws Exception{
-		//insertData();
+		insertData();
 		//testSelect();
-		testPreparedInsert();
+		//testPreparedInsert();
 
 	}
 
